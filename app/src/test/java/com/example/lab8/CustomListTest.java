@@ -39,8 +39,8 @@ public class CustomListTest {
         City city = new City("Yellowknife", "Northwest Territories");
         list.addCity(city);
         assertTrue(list.hasCity(city));
-
     }
+
 /*
     @Test
     void testremoveCity(){
